@@ -33,3 +33,7 @@ Event5 was made by
 
 ### Notes 📢
 This project was done as a final project of the [Platzi Master](https://platzi.com/blog/que-es-platzi-master/ "Platzi Master") program
+
+### My contribution to this project. 
+In this project, I created an API REST with Django and Django Rest Framework. This service gives endpoints that come from the queries to the database, it has to work as a connection between PostgreSQL and the API that interacts with the Frontend. 
+
